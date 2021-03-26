@@ -29,7 +29,7 @@ assignees: ''
 
 ### Specifications/Environment
 
-- **Device Type:**
+- **Device Type:** 
  (Desktop / Laptop / Tablet / Mobile) 
 - **Operating System & Version**: 
 (Windows / Mac / iOS / Android, plus version number)
